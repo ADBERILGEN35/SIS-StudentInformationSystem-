@@ -1,4 +1,4 @@
-# SIS-StudentInformationSystem-
+# SIS (StudentInformationSystem)
 Öğretmenler ve öğrenciler için geliştirilmiş bilgi sistemidir.
 
   Uluslararası Bilgisayar Enstitüsü bilgi teknolojileri alanında yüksek lisans ve doktora eğitimi 
